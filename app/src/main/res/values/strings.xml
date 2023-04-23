@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RBC_Interview</string>
+    <string name = "temperature_format">%s °C</string>
+    <string name = "percentage_format">%s\%%</string>
+    <string name = "pressure_format">%s mBar</string>
+    <string name = "distance_format">%s km</string>
+    <string name = "speed_format">%s km/h</string>
+</resources>
